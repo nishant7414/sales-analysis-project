@@ -13,9 +13,13 @@ The analysis was done in **Python** using **Pandas**, **Matplotlib**, and **Seab
 
 ## 📂 Project Structure
 sales-analysis/
+
 │── sales_analysis.ipynb # Main Jupyter Notebook
+
 │── sales_data.csv # Dataset
+
 │── README.md # Project documentation
+
 
 
 ---
