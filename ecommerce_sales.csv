@@ -1,0 +1,1001 @@
+Order ID,Order Date,Product,Category,Quantity,Price,Customer Location,Payment Method,Total Sales
+1,2023-01-01,Camera,Accessories,3,37224,Bangalore,Credit Card,111672
+2,2023-01-02,Smartwatch,Accessories,4,8788,Chennai,Net Banking,35152
+3,2023-01-03,Mobile Phone,Accessories,1,29082,Mumbai,Net Banking,29082
+4,2023-01-04,Smartwatch,Accessories,4,25034,Bangalore,Debit Card,100136
+5,2023-01-05,Smartwatch,Accessories,3,36479,Kolkata,Debit Card,109437
+6,2023-01-06,Headphones,Electronics,1,12280,Bangalore,Credit Card,12280
+7,2023-01-07,Mobile Phone,Accessories,3,19052,Chennai,Cash on Delivery,57156
+8,2023-01-08,Mobile Phone,Electronics,3,17531,Delhi,Debit Card,52593
+9,2023-01-09,Mobile Phone,Accessories,2,23804,Bangalore,Debit Card,47608
+10,2023-01-10,Smartwatch,Electronics,1,29903,Kolkata,Net Banking,29903
+11,2023-01-11,Camera,Accessories,2,45857,Mumbai,Cash on Delivery,91714
+12,2023-01-12,Mobile Phone,Electronics,1,11142,Delhi,Credit Card,11142
+13,2023-01-13,Smartwatch,Accessories,3,49355,Mumbai,Debit Card,148065
+14,2023-01-14,Headphones,Electronics,3,10866,Bangalore,Cash on Delivery,32598
+15,2023-01-15,Camera,Accessories,4,5531,Chennai,Cash on Delivery,22124
+16,2023-01-16,Headphones,Electronics,1,46454,Chennai,Credit Card,46454
+17,2023-01-17,Camera,Accessories,2,39098,Kolkata,Cash on Delivery,78196
+18,2023-01-18,Smartwatch,Electronics,4,39278,Chennai,Cash on Delivery,157112
+19,2023-01-19,Laptop,Electronics,4,29138,Delhi,Cash on Delivery,116552
+20,2023-01-20,Camera,Accessories,4,28065,Chennai,Debit Card,112260
+21,2023-01-21,Headphones,Accessories,2,30956,Kolkata,Credit Card,61912
+22,2023-01-22,Smartwatch,Electronics,4,42732,Bangalore,Cash on Delivery,170928
+23,2023-01-23,Camera,Accessories,2,40261,Bangalore,Cash on Delivery,80522
+24,2023-01-24,Laptop,Electronics,4,11759,Chennai,Debit Card,47036
+25,2023-01-25,Laptop,Electronics,2,6439,Mumbai,Credit Card,12878
+26,2023-01-26,Mobile Phone,Electronics,3,48241,Bangalore,Net Banking,144723
+27,2023-01-27,Mobile Phone,Accessories,3,43533,Chennai,Debit Card,130599
+28,2023-01-28,Headphones,Electronics,3,29270,Kolkata,Credit Card,87810
+29,2023-01-29,Camera,Electronics,3,14279,Chennai,Cash on Delivery,42837
+30,2023-01-30,Camera,Accessories,3,40279,Bangalore,Credit Card,120837
+31,2023-01-31,Mobile Phone,Accessories,4,45251,Kolkata,Credit Card,181004
+32,2023-02-01,Camera,Accessories,4,24888,Chennai,Credit Card,99552
+33,2023-02-02,Camera,Accessories,4,18630,Delhi,Net Banking,74520
+34,2023-02-03,Laptop,Electronics,2,36144,Kolkata,Credit Card,72288
+35,2023-02-04,Mobile Phone,Electronics,2,32182,Delhi,Net Banking,64364
+36,2023-02-05,Smartwatch,Electronics,2,26538,Mumbai,Cash on Delivery,53076
+37,2023-02-06,Mobile Phone,Electronics,2,12824,Kolkata,Net Banking,25648
+38,2023-02-07,Smartwatch,Accessories,3,33125,Delhi,Cash on Delivery,99375
+39,2023-02-08,Laptop,Electronics,3,7979,Bangalore,Cash on Delivery,23937
+40,2023-02-09,Headphones,Electronics,3,27189,Bangalore,Net Banking,81567
+41,2023-02-10,Camera,Accessories,1,43600,Mumbai,Debit Card,43600
+42,2023-02-11,Laptop,Electronics,4,13504,Kolkata,UPI,54016
+43,2023-02-12,Camera,Electronics,2,21669,Kolkata,Credit Card,43338
+44,2023-02-13,Headphones,Electronics,2,7910,Kolkata,UPI,15820
+45,2023-02-14,Headphones,Electronics,3,47857,Mumbai,Credit Card,143571
+46,2023-02-15,Laptop,Electronics,2,35964,Kolkata,Credit Card,71928
+47,2023-02-16,Headphones,Electronics,2,21131,Bangalore,Cash on Delivery,42262
+48,2023-02-17,Smartwatch,Accessories,4,26227,Delhi,Credit Card,104908
+49,2023-02-18,Headphones,Accessories,3,6978,Bangalore,Credit Card,20934
+50,2023-02-19,Camera,Electronics,4,22991,Bangalore,Net Banking,91964
+51,2023-02-20,Camera,Electronics,1,18153,Delhi,UPI,18153
+52,2023-02-21,Camera,Accessories,1,34548,Bangalore,Net Banking,34548
+53,2023-02-22,Camera,Electronics,1,43676,Mumbai,Credit Card,43676
+54,2023-02-23,Smartwatch,Electronics,3,40071,Delhi,Cash on Delivery,120213
+55,2023-02-24,Mobile Phone,Electronics,2,48454,Bangalore,Net Banking,96908
+56,2023-02-25,Laptop,Accessories,3,4983,Chennai,Net Banking,14949
+57,2023-02-26,Camera,Electronics,3,10503,Bangalore,Debit Card,31509
+58,2023-02-27,Headphones,Accessories,2,30921,Mumbai,Credit Card,61842
+59,2023-02-28,Camera,Electronics,4,17905,Kolkata,Cash on Delivery,71620
+60,2023-03-01,Headphones,Accessories,1,46838,Bangalore,Net Banking,46838
+61,2023-03-02,Headphones,Accessories,4,24953,Kolkata,Net Banking,99812
+62,2023-03-03,Camera,Electronics,1,27806,Chennai,Cash on Delivery,27806
+63,2023-03-04,Smartwatch,Accessories,3,46000,Bangalore,Credit Card,138000
+64,2023-03-05,Headphones,Electronics,1,23168,Delhi,Debit Card,23168
+65,2023-03-06,Headphones,Accessories,3,5583,Kolkata,Net Banking,16749
+66,2023-03-07,Camera,Electronics,4,39714,Chennai,Debit Card,158856
+67,2023-03-08,Headphones,Electronics,3,40896,Delhi,UPI,122688
+68,2023-03-09,Headphones,Accessories,4,12889,Delhi,Credit Card,51556
+69,2023-03-10,Camera,Electronics,2,28413,Delhi,UPI,56826
+70,2023-03-11,Camera,Electronics,2,13275,Delhi,UPI,26550
+71,2023-03-12,Laptop,Accessories,2,3461,Bangalore,UPI,6922
+72,2023-03-13,Smartwatch,Electronics,3,15291,Bangalore,Credit Card,45873
+73,2023-03-14,Smartwatch,Electronics,2,47804,Bangalore,Credit Card,95608
+74,2023-03-15,Headphones,Accessories,1,12435,Chennai,Cash on Delivery,12435
+75,2023-03-16,Smartwatch,Accessories,4,28935,Chennai,Debit Card,115740
+76,2023-03-17,Headphones,Electronics,4,34453,Chennai,Debit Card,137812
+77,2023-03-18,Laptop,Electronics,1,19544,Mumbai,Cash on Delivery,19544
+78,2023-03-19,Camera,Accessories,3,13258,Chennai,Cash on Delivery,39774
+79,2023-03-20,Camera,Accessories,3,31841,Bangalore,UPI,95523
+80,2023-03-21,Camera,Electronics,4,49758,Bangalore,Cash on Delivery,199032
+81,2023-03-22,Smartwatch,Accessories,2,11736,Mumbai,Net Banking,23472
+82,2023-03-23,Laptop,Electronics,3,38643,Mumbai,Debit Card,115929
+83,2023-03-24,Smartwatch,Electronics,3,44950,Chennai,Cash on Delivery,134850
+84,2023-03-25,Smartwatch,Electronics,1,35964,Kolkata,Net Banking,35964
+85,2023-03-26,Laptop,Electronics,1,29044,Mumbai,Net Banking,29044
+86,2023-03-27,Laptop,Electronics,2,40933,Delhi,Net Banking,81866
+87,2023-03-28,Laptop,Accessories,3,16997,Bangalore,Net Banking,50991
+88,2023-03-29,Laptop,Accessories,3,15215,Delhi,UPI,45645
+89,2023-03-30,Camera,Accessories,1,34069,Bangalore,Net Banking,34069
+90,2023-03-31,Mobile Phone,Accessories,3,24911,Bangalore,UPI,74733
+91,2023-04-01,Mobile Phone,Electronics,4,18030,Mumbai,UPI,72120
+92,2023-04-02,Laptop,Electronics,1,30334,Mumbai,Net Banking,30334
+93,2023-04-03,Mobile Phone,Electronics,2,15571,Delhi,Debit Card,31142
+94,2023-04-04,Mobile Phone,Electronics,1,43719,Bangalore,Net Banking,43719
+95,2023-04-05,Laptop,Accessories,3,29927,Delhi,Net Banking,89781
+96,2023-04-06,Mobile Phone,Electronics,2,21714,Kolkata,Net Banking,43428
+97,2023-04-07,Smartwatch,Electronics,1,44541,Delhi,Debit Card,44541
+98,2023-04-08,Headphones,Accessories,4,24387,Chennai,Credit Card,97548
+99,2023-04-09,Headphones,Accessories,4,29444,Delhi,Credit Card,117776
+100,2023-04-10,Laptop,Accessories,1,49908,Chennai,UPI,49908
+101,2023-04-11,Camera,Accessories,4,20921,Chennai,UPI,83684
+102,2023-04-12,Laptop,Electronics,4,14057,Chennai,Debit Card,56228
+103,2023-04-13,Camera,Electronics,4,46268,Kolkata,Cash on Delivery,185072
+104,2023-04-14,Headphones,Accessories,2,25858,Delhi,Credit Card,51716
+105,2023-04-15,Laptop,Electronics,4,49689,Delhi,UPI,198756
+106,2023-04-16,Smartwatch,Electronics,4,45638,Kolkata,Credit Card,182552
+107,2023-04-17,Mobile Phone,Electronics,4,27062,Bangalore,Debit Card,108248
+108,2023-04-18,Camera,Accessories,2,37850,Mumbai,Debit Card,75700
+109,2023-04-19,Mobile Phone,Electronics,1,47486,Delhi,Cash on Delivery,47486
+110,2023-04-20,Mobile Phone,Accessories,3,21567,Mumbai,Cash on Delivery,64701
+111,2023-04-21,Laptop,Electronics,4,30739,Kolkata,Debit Card,122956
+112,2023-04-22,Mobile Phone,Electronics,1,44285,Bangalore,UPI,44285
+113,2023-04-23,Smartwatch,Electronics,4,4754,Bangalore,Credit Card,19016
+114,2023-04-24,Mobile Phone,Accessories,2,28044,Bangalore,Net Banking,56088
+115,2023-04-25,Laptop,Electronics,1,2724,Kolkata,Cash on Delivery,2724
+116,2023-04-26,Smartwatch,Accessories,2,2376,Chennai,Net Banking,4752
+117,2023-04-27,Headphones,Accessories,4,9706,Chennai,UPI,38824
+118,2023-04-28,Mobile Phone,Accessories,4,9894,Mumbai,Cash on Delivery,39576
+119,2023-04-29,Laptop,Electronics,2,19037,Chennai,Net Banking,38074
+120,2023-04-30,Headphones,Electronics,3,19450,Chennai,UPI,58350
+121,2023-05-01,Headphones,Electronics,2,17406,Bangalore,Credit Card,34812
+122,2023-05-02,Camera,Electronics,4,30725,Bangalore,UPI,122900
+123,2023-05-03,Smartwatch,Accessories,2,6926,Mumbai,Cash on Delivery,13852
+124,2023-05-04,Mobile Phone,Accessories,3,40019,Delhi,Debit Card,120057
+125,2023-05-05,Laptop,Accessories,2,10496,Mumbai,Credit Card,20992
+126,2023-05-06,Camera,Electronics,3,37068,Mumbai,Net Banking,111204
+127,2023-05-07,Smartwatch,Accessories,3,30806,Kolkata,Cash on Delivery,92418
+128,2023-05-08,Camera,Electronics,2,23663,Kolkata,Debit Card,47326
+129,2023-05-09,Smartwatch,Accessories,2,42321,Mumbai,UPI,84642
+130,2023-05-10,Smartwatch,Electronics,1,37495,Mumbai,Debit Card,37495
+131,2023-05-11,Mobile Phone,Electronics,4,23656,Mumbai,Cash on Delivery,94624
+132,2023-05-12,Smartwatch,Accessories,3,26860,Chennai,Cash on Delivery,80580
+133,2023-05-13,Camera,Accessories,1,17832,Kolkata,Debit Card,17832
+134,2023-05-14,Smartwatch,Accessories,2,39787,Mumbai,UPI,79574
+135,2023-05-15,Mobile Phone,Accessories,4,49231,Bangalore,Debit Card,196924
+136,2023-05-16,Mobile Phone,Electronics,1,22727,Bangalore,Cash on Delivery,22727
+137,2023-05-17,Camera,Accessories,3,43815,Chennai,Cash on Delivery,131445
+138,2023-05-18,Headphones,Accessories,1,30545,Chennai,Net Banking,30545
+139,2023-05-19,Headphones,Accessories,3,45522,Delhi,Net Banking,136566
+140,2023-05-20,Smartwatch,Electronics,2,3520,Delhi,Credit Card,7040
+141,2023-05-21,Laptop,Electronics,4,4081,Delhi,Cash on Delivery,16324
+142,2023-05-22,Smartwatch,Accessories,4,35196,Chennai,Net Banking,140784
+143,2023-05-23,Camera,Electronics,4,37735,Chennai,Debit Card,150940
+144,2023-05-24,Camera,Accessories,2,40213,Chennai,UPI,80426
+145,2023-05-25,Camera,Electronics,3,15566,Bangalore,Debit Card,46698
+146,2023-05-26,Camera,Electronics,2,15042,Chennai,UPI,30084
+147,2023-05-27,Camera,Electronics,4,26498,Bangalore,Net Banking,105992
+148,2023-05-28,Mobile Phone,Electronics,2,12329,Delhi,Credit Card,24658
+149,2023-05-29,Headphones,Accessories,2,32656,Delhi,Debit Card,65312
+150,2023-05-30,Camera,Accessories,2,3159,Delhi,Debit Card,6318
+151,2023-05-31,Laptop,Accessories,3,38900,Mumbai,Debit Card,116700
+152,2023-06-01,Laptop,Electronics,1,20363,Mumbai,UPI,20363
+153,2023-06-02,Laptop,Accessories,1,48701,Kolkata,Net Banking,48701
+154,2023-06-03,Laptop,Accessories,2,44241,Kolkata,Debit Card,88482
+155,2023-06-04,Mobile Phone,Accessories,1,20033,Kolkata,Debit Card,20033
+156,2023-06-05,Laptop,Electronics,1,11805,Mumbai,Credit Card,11805
+157,2023-06-06,Camera,Electronics,2,36851,Mumbai,Credit Card,73702
+158,2023-06-07,Smartwatch,Electronics,2,27832,Kolkata,Net Banking,55664
+159,2023-06-08,Laptop,Accessories,4,14944,Kolkata,Net Banking,59776
+160,2023-06-09,Mobile Phone,Accessories,1,20873,Chennai,Cash on Delivery,20873
+161,2023-06-10,Mobile Phone,Accessories,3,41372,Kolkata,Credit Card,124116
+162,2023-06-11,Laptop,Electronics,2,24928,Chennai,Cash on Delivery,49856
+163,2023-06-12,Smartwatch,Electronics,4,16379,Bangalore,UPI,65516
+164,2023-06-13,Laptop,Accessories,3,37751,Mumbai,Cash on Delivery,113253
+165,2023-06-14,Mobile Phone,Electronics,1,35546,Kolkata,Debit Card,35546
+166,2023-06-15,Headphones,Electronics,4,25286,Mumbai,Cash on Delivery,101144
+167,2023-06-16,Camera,Electronics,2,6110,Mumbai,Net Banking,12220
+168,2023-06-17,Mobile Phone,Electronics,3,13087,Mumbai,UPI,39261
+169,2023-06-18,Laptop,Accessories,2,24762,Bangalore,Debit Card,49524
+170,2023-06-19,Camera,Electronics,1,18081,Delhi,Cash on Delivery,18081
+171,2023-06-20,Laptop,Electronics,3,35947,Kolkata,UPI,107841
+172,2023-06-21,Laptop,Electronics,1,10596,Delhi,UPI,10596
+173,2023-06-22,Headphones,Electronics,1,39019,Delhi,Debit Card,39019
+174,2023-06-23,Camera,Accessories,4,43003,Delhi,Cash on Delivery,172012
+175,2023-06-24,Camera,Accessories,2,19313,Mumbai,UPI,38626
+176,2023-06-25,Headphones,Electronics,3,48639,Chennai,UPI,145917
+177,2023-06-26,Mobile Phone,Electronics,1,2013,Mumbai,Credit Card,2013
+178,2023-06-27,Laptop,Electronics,1,24705,Mumbai,UPI,24705
+179,2023-06-28,Smartwatch,Electronics,3,2828,Delhi,Credit Card,8484
+180,2023-06-29,Laptop,Electronics,1,8909,Mumbai,Cash on Delivery,8909
+181,2023-06-30,Laptop,Electronics,4,39356,Delhi,Cash on Delivery,157424
+182,2023-07-01,Mobile Phone,Accessories,4,14109,Chennai,Cash on Delivery,56436
+183,2023-07-02,Laptop,Electronics,4,3023,Kolkata,Net Banking,12092
+184,2023-07-03,Headphones,Accessories,4,15537,Delhi,Cash on Delivery,62148
+185,2023-07-04,Headphones,Accessories,1,27661,Chennai,UPI,27661
+186,2023-07-05,Camera,Electronics,3,39659,Kolkata,Debit Card,118977
+187,2023-07-06,Smartwatch,Accessories,3,34848,Bangalore,Credit Card,104544
+188,2023-07-07,Laptop,Accessories,3,38804,Delhi,Net Banking,116412
+189,2023-07-08,Laptop,Accessories,3,16379,Delhi,Cash on Delivery,49137
+190,2023-07-09,Mobile Phone,Accessories,2,28766,Bangalore,Cash on Delivery,57532
+191,2023-07-10,Headphones,Accessories,3,44590,Bangalore,Debit Card,133770
+192,2023-07-11,Smartwatch,Accessories,2,3563,Delhi,Debit Card,7126
+193,2023-07-12,Camera,Electronics,2,37060,Bangalore,Net Banking,74120
+194,2023-07-13,Headphones,Accessories,4,30197,Mumbai,Credit Card,120788
+195,2023-07-14,Camera,Accessories,2,4586,Kolkata,Cash on Delivery,9172
+196,2023-07-15,Mobile Phone,Accessories,1,17087,Kolkata,Net Banking,17087
+197,2023-07-16,Mobile Phone,Electronics,2,49868,Kolkata,UPI,99736
+198,2023-07-17,Laptop,Accessories,4,24225,Mumbai,UPI,96900
+199,2023-07-18,Smartwatch,Electronics,2,30750,Bangalore,Net Banking,61500
+200,2023-07-19,Camera,Accessories,1,7643,Chennai,Cash on Delivery,7643
+201,2023-07-20,Headphones,Electronics,1,28523,Bangalore,Net Banking,28523
+202,2023-07-21,Mobile Phone,Electronics,1,37727,Delhi,Cash on Delivery,37727
+203,2023-07-22,Laptop,Accessories,4,12005,Kolkata,Debit Card,48020
+204,2023-07-23,Laptop,Accessories,4,44543,Bangalore,Net Banking,178172
+205,2023-07-24,Camera,Electronics,3,1161,Chennai,Cash on Delivery,3483
+206,2023-07-25,Mobile Phone,Accessories,4,17029,Delhi,Net Banking,68116
+207,2023-07-26,Smartwatch,Electronics,1,15226,Mumbai,Net Banking,15226
+208,2023-07-27,Mobile Phone,Electronics,1,29731,Mumbai,Cash on Delivery,29731
+209,2023-07-28,Camera,Electronics,4,44922,Chennai,Cash on Delivery,179688
+210,2023-07-29,Camera,Electronics,2,45848,Delhi,Credit Card,91696
+211,2023-07-30,Mobile Phone,Electronics,4,4390,Kolkata,Net Banking,17560
+212,2023-07-31,Camera,Accessories,4,6997,Bangalore,UPI,27988
+213,2023-08-01,Mobile Phone,Electronics,1,13693,Delhi,Net Banking,13693
+214,2023-08-02,Headphones,Electronics,3,43092,Mumbai,Net Banking,129276
+215,2023-08-03,Mobile Phone,Accessories,1,1541,Chennai,Cash on Delivery,1541
+216,2023-08-04,Mobile Phone,Electronics,3,22817,Chennai,Net Banking,68451
+217,2023-08-05,Camera,Accessories,1,38861,Bangalore,Net Banking,38861
+218,2023-08-06,Camera,Accessories,4,14428,Chennai,UPI,57712
+219,2023-08-07,Laptop,Accessories,1,44934,Chennai,Cash on Delivery,44934
+220,2023-08-08,Laptop,Electronics,1,49831,Delhi,Net Banking,49831
+221,2023-08-09,Headphones,Electronics,1,11258,Kolkata,Debit Card,11258
+222,2023-08-10,Laptop,Electronics,4,17044,Bangalore,Credit Card,68176
+223,2023-08-11,Mobile Phone,Accessories,4,30411,Delhi,UPI,121644
+224,2023-08-12,Camera,Electronics,4,6469,Kolkata,Net Banking,25876
+225,2023-08-13,Laptop,Accessories,4,29854,Delhi,Debit Card,119416
+226,2023-08-14,Laptop,Electronics,3,7256,Delhi,Net Banking,21768
+227,2023-08-15,Headphones,Accessories,3,11720,Chennai,Net Banking,35160
+228,2023-08-16,Headphones,Electronics,2,34937,Kolkata,Cash on Delivery,69874
+229,2023-08-17,Mobile Phone,Electronics,4,34598,Bangalore,Cash on Delivery,138392
+230,2023-08-18,Camera,Electronics,3,2651,Bangalore,Cash on Delivery,7953
+231,2023-08-19,Headphones,Accessories,1,20194,Kolkata,Debit Card,20194
+232,2023-08-20,Laptop,Accessories,4,26051,Chennai,Net Banking,104204
+233,2023-08-21,Camera,Electronics,2,28386,Mumbai,Credit Card,56772
+234,2023-08-22,Camera,Electronics,2,10518,Delhi,UPI,21036
+235,2023-08-23,Laptop,Accessories,2,47026,Chennai,Cash on Delivery,94052
+236,2023-08-24,Headphones,Accessories,1,17184,Kolkata,Cash on Delivery,17184
+237,2023-08-25,Laptop,Accessories,3,34787,Delhi,Net Banking,104361
+238,2023-08-26,Camera,Electronics,1,22621,Bangalore,Net Banking,22621
+239,2023-08-27,Smartwatch,Accessories,4,11028,Mumbai,Debit Card,44112
+240,2023-08-28,Smartwatch,Electronics,2,13448,Bangalore,Debit Card,26896
+241,2023-08-29,Mobile Phone,Accessories,1,46253,Kolkata,Cash on Delivery,46253
+242,2023-08-30,Laptop,Electronics,1,35051,Delhi,Net Banking,35051
+243,2023-08-31,Laptop,Accessories,3,31447,Kolkata,Credit Card,94341
+244,2023-09-01,Mobile Phone,Accessories,3,19394,Delhi,UPI,58182
+245,2023-09-02,Mobile Phone,Accessories,2,35501,Chennai,Net Banking,71002
+246,2023-09-03,Mobile Phone,Accessories,1,31254,Mumbai,Net Banking,31254
+247,2023-09-04,Camera,Accessories,1,19509,Chennai,Debit Card,19509
+248,2023-09-05,Laptop,Electronics,3,49998,Chennai,UPI,149994
+249,2023-09-06,Camera,Accessories,1,15472,Kolkata,Cash on Delivery,15472
+250,2023-09-07,Mobile Phone,Accessories,1,46657,Mumbai,Net Banking,46657
+251,2023-09-08,Laptop,Accessories,1,4471,Delhi,Cash on Delivery,4471
+252,2023-09-09,Camera,Electronics,3,42796,Delhi,Net Banking,128388
+253,2023-09-10,Camera,Accessories,2,31268,Bangalore,Cash on Delivery,62536
+254,2023-09-11,Mobile Phone,Electronics,4,9329,Delhi,UPI,37316
+255,2023-09-12,Laptop,Accessories,2,35865,Kolkata,Debit Card,71730
+256,2023-09-13,Mobile Phone,Accessories,4,47850,Chennai,UPI,191400
+257,2023-09-14,Laptop,Electronics,1,47698,Chennai,Credit Card,47698
+258,2023-09-15,Smartwatch,Accessories,2,29272,Chennai,Debit Card,58544
+259,2023-09-16,Headphones,Electronics,4,43845,Mumbai,UPI,175380
+260,2023-09-17,Headphones,Electronics,3,7397,Delhi,Credit Card,22191
+261,2023-09-18,Headphones,Accessories,3,33373,Kolkata,Net Banking,100119
+262,2023-09-19,Mobile Phone,Electronics,2,36525,Mumbai,Net Banking,73050
+263,2023-09-20,Smartwatch,Accessories,2,25570,Bangalore,Cash on Delivery,51140
+264,2023-09-21,Laptop,Accessories,1,19284,Kolkata,Debit Card,19284
+265,2023-09-22,Camera,Electronics,2,19994,Kolkata,Net Banking,39988
+266,2023-09-23,Laptop,Electronics,1,24284,Kolkata,Debit Card,24284
+267,2023-09-24,Camera,Electronics,1,18833,Chennai,Net Banking,18833
+268,2023-09-25,Laptop,Electronics,3,26122,Kolkata,Cash on Delivery,78366
+269,2023-09-26,Smartwatch,Accessories,3,6017,Delhi,UPI,18051
+270,2023-09-27,Camera,Accessories,4,17370,Kolkata,Cash on Delivery,69480
+271,2023-09-28,Mobile Phone,Electronics,3,30252,Chennai,Credit Card,90756
+272,2023-09-29,Laptop,Accessories,3,8999,Kolkata,Net Banking,26997
+273,2023-09-30,Laptop,Accessories,2,23436,Bangalore,Credit Card,46872
+274,2023-10-01,Camera,Accessories,3,43963,Bangalore,Credit Card,131889
+275,2023-10-02,Mobile Phone,Accessories,4,3096,Chennai,Debit Card,12384
+276,2023-10-03,Mobile Phone,Electronics,2,49201,Delhi,Net Banking,98402
+277,2023-10-04,Smartwatch,Electronics,4,26279,Delhi,Credit Card,105116
+278,2023-10-05,Mobile Phone,Accessories,3,44363,Mumbai,UPI,133089
+279,2023-10-06,Mobile Phone,Electronics,4,49709,Chennai,Credit Card,198836
+280,2023-10-07,Mobile Phone,Electronics,2,27201,Kolkata,UPI,54402
+281,2023-10-08,Headphones,Electronics,1,20715,Chennai,Debit Card,20715
+282,2023-10-09,Smartwatch,Accessories,4,30309,Mumbai,Credit Card,121236
+283,2023-10-10,Laptop,Accessories,4,16078,Chennai,Cash on Delivery,64312
+284,2023-10-11,Camera,Accessories,2,6105,Chennai,Debit Card,12210
+285,2023-10-12,Laptop,Electronics,2,30312,Mumbai,UPI,60624
+286,2023-10-13,Smartwatch,Accessories,4,3839,Delhi,Debit Card,15356
+287,2023-10-14,Camera,Accessories,3,4384,Kolkata,Credit Card,13152
+288,2023-10-15,Smartwatch,Electronics,4,44619,Mumbai,Net Banking,178476
+289,2023-10-16,Mobile Phone,Accessories,2,43821,Bangalore,Net Banking,87642
+290,2023-10-17,Camera,Accessories,1,14493,Delhi,UPI,14493
+291,2023-10-18,Mobile Phone,Electronics,1,18069,Bangalore,UPI,18069
+292,2023-10-19,Laptop,Electronics,3,47907,Delhi,Net Banking,143721
+293,2023-10-20,Laptop,Electronics,4,8531,Kolkata,UPI,34124
+294,2023-10-21,Camera,Accessories,1,38051,Kolkata,Debit Card,38051
+295,2023-10-22,Camera,Accessories,4,8736,Chennai,Cash on Delivery,34944
+296,2023-10-23,Smartwatch,Accessories,2,8710,Bangalore,Cash on Delivery,17420
+297,2023-10-24,Smartwatch,Electronics,1,2619,Delhi,Debit Card,2619
+298,2023-10-25,Mobile Phone,Electronics,3,14975,Kolkata,Cash on Delivery,44925
+299,2023-10-26,Camera,Accessories,2,46603,Mumbai,Credit Card,93206
+300,2023-10-27,Laptop,Accessories,3,24252,Kolkata,Debit Card,72756
+301,2023-10-28,Smartwatch,Electronics,2,16261,Mumbai,UPI,32522
+302,2023-10-29,Smartwatch,Electronics,1,2431,Delhi,Debit Card,2431
+303,2023-10-30,Laptop,Electronics,3,10067,Kolkata,Net Banking,30201
+304,2023-10-31,Smartwatch,Electronics,3,38481,Kolkata,UPI,115443
+305,2023-11-01,Mobile Phone,Accessories,2,28037,Delhi,Net Banking,56074
+306,2023-11-02,Camera,Electronics,3,10557,Kolkata,UPI,31671
+307,2023-11-03,Laptop,Accessories,2,10435,Mumbai,Cash on Delivery,20870
+308,2023-11-04,Camera,Accessories,2,38766,Kolkata,Debit Card,77532
+309,2023-11-05,Smartwatch,Accessories,2,1162,Bangalore,Credit Card,2324
+310,2023-11-06,Smartwatch,Electronics,2,35742,Chennai,UPI,71484
+311,2023-11-07,Laptop,Electronics,1,20675,Mumbai,UPI,20675
+312,2023-11-08,Mobile Phone,Electronics,2,9461,Bangalore,Net Banking,18922
+313,2023-11-09,Headphones,Electronics,4,18015,Delhi,Cash on Delivery,72060
+314,2023-11-10,Laptop,Accessories,3,33591,Mumbai,Net Banking,100773
+315,2023-11-11,Headphones,Electronics,4,29047,Chennai,Net Banking,116188
+316,2023-11-12,Headphones,Electronics,1,35782,Chennai,Cash on Delivery,35782
+317,2023-11-13,Mobile Phone,Accessories,4,10833,Delhi,Credit Card,43332
+318,2023-11-14,Headphones,Electronics,3,8896,Delhi,Net Banking,26688
+319,2023-11-15,Headphones,Accessories,4,33972,Mumbai,Net Banking,135888
+320,2023-11-16,Mobile Phone,Accessories,1,42800,Kolkata,UPI,42800
+321,2023-11-17,Headphones,Accessories,2,31508,Delhi,Cash on Delivery,63016
+322,2023-11-18,Headphones,Accessories,4,6347,Kolkata,Debit Card,25388
+323,2023-11-19,Headphones,Accessories,1,31314,Bangalore,Credit Card,31314
+324,2023-11-20,Laptop,Accessories,1,3643,Chennai,Credit Card,3643
+325,2023-11-21,Laptop,Accessories,3,41785,Kolkata,Cash on Delivery,125355
+326,2023-11-22,Laptop,Accessories,3,19681,Chennai,UPI,59043
+327,2023-11-23,Mobile Phone,Electronics,4,39328,Kolkata,UPI,157312
+328,2023-11-24,Smartwatch,Electronics,2,16892,Bangalore,Cash on Delivery,33784
+329,2023-11-25,Headphones,Electronics,1,48299,Delhi,UPI,48299
+330,2023-11-26,Headphones,Electronics,4,18073,Bangalore,Credit Card,72292
+331,2023-11-27,Mobile Phone,Accessories,1,37768,Delhi,Credit Card,37768
+332,2023-11-28,Headphones,Electronics,1,31682,Delhi,Debit Card,31682
+333,2023-11-29,Laptop,Accessories,2,33262,Chennai,Cash on Delivery,66524
+334,2023-11-30,Smartwatch,Electronics,2,32358,Bangalore,Net Banking,64716
+335,2023-12-01,Camera,Electronics,4,15289,Kolkata,Net Banking,61156
+336,2023-12-02,Headphones,Electronics,2,8927,Bangalore,Debit Card,17854
+337,2023-12-03,Laptop,Accessories,2,49330,Chennai,Debit Card,98660
+338,2023-12-04,Camera,Electronics,4,2171,Delhi,UPI,8684
+339,2023-12-05,Smartwatch,Accessories,2,12918,Chennai,Debit Card,25836
+340,2023-12-06,Camera,Accessories,3,42903,Mumbai,Debit Card,128709
+341,2023-12-07,Laptop,Electronics,1,40110,Mumbai,Net Banking,40110
+342,2023-12-08,Camera,Electronics,1,12929,Kolkata,UPI,12929
+343,2023-12-09,Mobile Phone,Electronics,1,3539,Chennai,Debit Card,3539
+344,2023-12-10,Camera,Accessories,1,37727,Kolkata,Debit Card,37727
+345,2023-12-11,Headphones,Electronics,4,46951,Kolkata,UPI,187804
+346,2023-12-12,Headphones,Accessories,1,23669,Mumbai,Cash on Delivery,23669
+347,2023-12-13,Mobile Phone,Accessories,1,6432,Kolkata,UPI,6432
+348,2023-12-14,Laptop,Electronics,1,21644,Mumbai,Net Banking,21644
+349,2023-12-15,Headphones,Electronics,1,19745,Delhi,Cash on Delivery,19745
+350,2023-12-16,Smartwatch,Accessories,3,29228,Chennai,Credit Card,87684
+351,2023-12-17,Headphones,Accessories,1,35521,Kolkata,UPI,35521
+352,2023-12-18,Headphones,Accessories,3,32703,Mumbai,Net Banking,98109
+353,2023-12-19,Laptop,Electronics,4,27928,Bangalore,Cash on Delivery,111712
+354,2023-12-20,Camera,Accessories,2,19322,Kolkata,UPI,38644
+355,2023-12-21,Headphones,Electronics,1,23360,Delhi,Debit Card,23360
+356,2023-12-22,Mobile Phone,Accessories,2,30055,Delhi,UPI,60110
+357,2023-12-23,Camera,Accessories,2,43891,Bangalore,Credit Card,87782
+358,2023-12-24,Smartwatch,Electronics,4,17376,Mumbai,UPI,69504
+359,2023-12-25,Laptop,Accessories,2,7588,Kolkata,Cash on Delivery,15176
+360,2023-12-26,Smartwatch,Electronics,3,26000,Mumbai,Cash on Delivery,78000
+361,2023-12-27,Camera,Electronics,2,7304,Delhi,UPI,14608
+362,2023-12-28,Camera,Accessories,2,8345,Mumbai,Cash on Delivery,16690
+363,2023-12-29,Camera,Electronics,2,30300,Delhi,Debit Card,60600
+364,2023-12-30,Smartwatch,Electronics,1,25259,Mumbai,UPI,25259
+365,2023-12-31,Camera,Accessories,1,26470,Bangalore,Debit Card,26470
+366,2024-01-01,Smartwatch,Electronics,3,24017,Chennai,Debit Card,72051
+367,2024-01-02,Camera,Electronics,3,16352,Bangalore,Net Banking,49056
+368,2024-01-03,Mobile Phone,Electronics,1,34365,Bangalore,UPI,34365
+369,2024-01-04,Camera,Accessories,3,20446,Chennai,Cash on Delivery,61338
+370,2024-01-05,Smartwatch,Electronics,1,3336,Chennai,Debit Card,3336
+371,2024-01-06,Headphones,Accessories,4,10879,Kolkata,Net Banking,43516
+372,2024-01-07,Camera,Accessories,2,33316,Kolkata,UPI,66632
+373,2024-01-08,Headphones,Electronics,2,34340,Bangalore,UPI,68680
+374,2024-01-09,Mobile Phone,Electronics,3,8521,Bangalore,Credit Card,25563
+375,2024-01-10,Laptop,Electronics,1,7171,Delhi,Credit Card,7171
+376,2024-01-11,Mobile Phone,Accessories,1,24481,Delhi,Debit Card,24481
+377,2024-01-12,Camera,Electronics,3,19474,Kolkata,Credit Card,58422
+378,2024-01-13,Headphones,Electronics,1,47760,Kolkata,Debit Card,47760
+379,2024-01-14,Headphones,Electronics,4,45629,Delhi,Cash on Delivery,182516
+380,2024-01-15,Smartwatch,Electronics,2,46232,Delhi,Debit Card,92464
+381,2024-01-16,Headphones,Electronics,3,22008,Mumbai,Credit Card,66024
+382,2024-01-17,Smartwatch,Accessories,3,2633,Mumbai,Cash on Delivery,7899
+383,2024-01-18,Laptop,Accessories,1,13485,Delhi,Credit Card,13485
+384,2024-01-19,Camera,Electronics,3,44617,Mumbai,Debit Card,133851
+385,2024-01-20,Smartwatch,Electronics,4,4648,Chennai,Net Banking,18592
+386,2024-01-21,Laptop,Electronics,1,48945,Kolkata,UPI,48945
+387,2024-01-22,Headphones,Electronics,1,14140,Kolkata,Credit Card,14140
+388,2024-01-23,Headphones,Accessories,1,18921,Delhi,Debit Card,18921
+389,2024-01-24,Laptop,Electronics,1,15357,Bangalore,Cash on Delivery,15357
+390,2024-01-25,Headphones,Accessories,4,47136,Delhi,Credit Card,188544
+391,2024-01-26,Laptop,Accessories,1,4137,Mumbai,Credit Card,4137
+392,2024-01-27,Smartwatch,Electronics,3,1097,Bangalore,UPI,3291
+393,2024-01-28,Smartwatch,Accessories,4,12407,Mumbai,Debit Card,49628
+394,2024-01-29,Laptop,Accessories,2,31575,Chennai,Net Banking,63150
+395,2024-01-30,Smartwatch,Accessories,2,13722,Mumbai,Cash on Delivery,27444
+396,2024-01-31,Smartwatch,Accessories,3,13924,Chennai,Debit Card,41772
+397,2024-02-01,Smartwatch,Electronics,3,4750,Chennai,Cash on Delivery,14250
+398,2024-02-02,Mobile Phone,Electronics,4,28733,Mumbai,Credit Card,114932
+399,2024-02-03,Camera,Accessories,2,9535,Mumbai,UPI,19070
+400,2024-02-04,Headphones,Electronics,2,25487,Chennai,UPI,50974
+401,2024-02-05,Mobile Phone,Electronics,2,31651,Bangalore,Net Banking,63302
+402,2024-02-06,Smartwatch,Electronics,2,5666,Chennai,UPI,11332
+403,2024-02-07,Laptop,Electronics,2,49777,Kolkata,Credit Card,99554
+404,2024-02-08,Smartwatch,Electronics,1,17994,Chennai,Net Banking,17994
+405,2024-02-09,Camera,Accessories,3,2727,Bangalore,Debit Card,8181
+406,2024-02-10,Smartwatch,Electronics,1,35622,Kolkata,UPI,35622
+407,2024-02-11,Laptop,Electronics,2,11800,Delhi,Net Banking,23600
+408,2024-02-12,Camera,Electronics,4,38823,Delhi,Credit Card,155292
+409,2024-02-13,Smartwatch,Electronics,4,44039,Bangalore,Cash on Delivery,176156
+410,2024-02-14,Camera,Accessories,2,19708,Chennai,Cash on Delivery,39416
+411,2024-02-15,Headphones,Accessories,2,13819,Mumbai,Credit Card,27638
+412,2024-02-16,Headphones,Accessories,4,10369,Bangalore,Credit Card,41476
+413,2024-02-17,Smartwatch,Accessories,1,10283,Kolkata,Cash on Delivery,10283
+414,2024-02-18,Camera,Electronics,1,31573,Kolkata,Net Banking,31573
+415,2024-02-19,Laptop,Accessories,2,14171,Delhi,Cash on Delivery,28342
+416,2024-02-20,Smartwatch,Electronics,1,31933,Kolkata,Credit Card,31933
+417,2024-02-21,Headphones,Electronics,4,6774,Bangalore,UPI,27096
+418,2024-02-22,Headphones,Electronics,1,7519,Kolkata,Debit Card,7519
+419,2024-02-23,Smartwatch,Electronics,2,11983,Bangalore,UPI,23966
+420,2024-02-24,Camera,Electronics,4,31932,Mumbai,UPI,127728
+421,2024-02-25,Headphones,Accessories,1,31798,Delhi,Credit Card,31798
+422,2024-02-26,Camera,Accessories,3,19133,Kolkata,Cash on Delivery,57399
+423,2024-02-27,Headphones,Accessories,4,15939,Bangalore,Net Banking,63756
+424,2024-02-28,Headphones,Accessories,4,1781,Chennai,UPI,7124
+425,2024-02-29,Mobile Phone,Electronics,3,28624,Delhi,Cash on Delivery,85872
+426,2024-03-01,Headphones,Accessories,3,7823,Mumbai,Net Banking,23469
+427,2024-03-02,Laptop,Electronics,4,19489,Bangalore,UPI,77956
+428,2024-03-03,Smartwatch,Accessories,3,40961,Mumbai,Net Banking,122883
+429,2024-03-04,Smartwatch,Electronics,2,30118,Mumbai,Cash on Delivery,60236
+430,2024-03-05,Camera,Electronics,2,35881,Kolkata,Debit Card,71762
+431,2024-03-06,Headphones,Accessories,2,17280,Kolkata,Cash on Delivery,34560
+432,2024-03-07,Laptop,Electronics,4,23263,Bangalore,Credit Card,93052
+433,2024-03-08,Camera,Electronics,3,14565,Chennai,Net Banking,43695
+434,2024-03-09,Mobile Phone,Accessories,3,21354,Bangalore,Debit Card,64062
+435,2024-03-10,Camera,Electronics,1,43951,Chennai,Net Banking,43951
+436,2024-03-11,Camera,Accessories,1,26643,Mumbai,Net Banking,26643
+437,2024-03-12,Headphones,Accessories,3,24648,Delhi,UPI,73944
+438,2024-03-13,Mobile Phone,Accessories,3,42971,Bangalore,Credit Card,128913
+439,2024-03-14,Camera,Electronics,3,19658,Bangalore,Net Banking,58974
+440,2024-03-15,Laptop,Electronics,4,22253,Chennai,Cash on Delivery,89012
+441,2024-03-16,Laptop,Electronics,3,49563,Mumbai,Cash on Delivery,148689
+442,2024-03-17,Smartwatch,Accessories,1,27390,Mumbai,UPI,27390
+443,2024-03-18,Mobile Phone,Electronics,4,24128,Chennai,Credit Card,96512
+444,2024-03-19,Mobile Phone,Accessories,3,14489,Mumbai,Credit Card,43467
+445,2024-03-20,Smartwatch,Accessories,1,39314,Kolkata,Cash on Delivery,39314
+446,2024-03-21,Camera,Electronics,4,33658,Delhi,Debit Card,134632
+447,2024-03-22,Mobile Phone,Accessories,3,7852,Bangalore,UPI,23556
+448,2024-03-23,Laptop,Electronics,3,30450,Delhi,UPI,91350
+449,2024-03-24,Laptop,Electronics,3,3551,Bangalore,Cash on Delivery,10653
+450,2024-03-25,Headphones,Electronics,4,7411,Kolkata,Cash on Delivery,29644
+451,2024-03-26,Mobile Phone,Electronics,1,34243,Mumbai,Debit Card,34243
+452,2024-03-27,Camera,Electronics,1,22800,Chennai,Debit Card,22800
+453,2024-03-28,Smartwatch,Accessories,2,11403,Kolkata,Credit Card,22806
+454,2024-03-29,Smartwatch,Accessories,3,8239,Delhi,UPI,24717
+455,2024-03-30,Camera,Accessories,2,7710,Chennai,UPI,15420
+456,2024-03-31,Headphones,Electronics,2,22384,Mumbai,Cash on Delivery,44768
+457,2024-04-01,Smartwatch,Electronics,1,22038,Kolkata,Credit Card,22038
+458,2024-04-02,Mobile Phone,Electronics,4,41846,Chennai,UPI,167384
+459,2024-04-03,Headphones,Accessories,4,23447,Kolkata,Credit Card,93788
+460,2024-04-04,Mobile Phone,Electronics,1,3285,Kolkata,Credit Card,3285
+461,2024-04-05,Laptop,Accessories,4,38991,Mumbai,Cash on Delivery,155964
+462,2024-04-06,Headphones,Accessories,2,14521,Bangalore,Credit Card,29042
+463,2024-04-07,Smartwatch,Electronics,3,48657,Chennai,Debit Card,145971
+464,2024-04-08,Headphones,Electronics,1,7971,Mumbai,Debit Card,7971
+465,2024-04-09,Headphones,Accessories,3,30139,Kolkata,Net Banking,90417
+466,2024-04-10,Headphones,Electronics,4,20909,Mumbai,Cash on Delivery,83636
+467,2024-04-11,Headphones,Accessories,3,12531,Bangalore,Net Banking,37593
+468,2024-04-12,Mobile Phone,Electronics,4,15721,Chennai,Debit Card,62884
+469,2024-04-13,Laptop,Electronics,4,20206,Bangalore,Net Banking,80824
+470,2024-04-14,Camera,Accessories,2,38711,Delhi,Cash on Delivery,77422
+471,2024-04-15,Headphones,Electronics,4,7530,Chennai,Cash on Delivery,30120
+472,2024-04-16,Smartwatch,Accessories,2,12116,Bangalore,Credit Card,24232
+473,2024-04-17,Headphones,Electronics,2,1258,Kolkata,UPI,2516
+474,2024-04-18,Smartwatch,Accessories,2,1282,Chennai,Credit Card,2564
+475,2024-04-19,Mobile Phone,Accessories,1,14937,Chennai,Cash on Delivery,14937
+476,2024-04-20,Smartwatch,Electronics,1,2898,Mumbai,Debit Card,2898
+477,2024-04-21,Camera,Accessories,4,5135,Kolkata,Debit Card,20540
+478,2024-04-22,Laptop,Electronics,2,7629,Delhi,Credit Card,15258
+479,2024-04-23,Smartwatch,Electronics,1,44936,Bangalore,Cash on Delivery,44936
+480,2024-04-24,Smartwatch,Electronics,2,20584,Mumbai,Debit Card,41168
+481,2024-04-25,Laptop,Accessories,3,24551,Bangalore,Cash on Delivery,73653
+482,2024-04-26,Camera,Accessories,3,34380,Delhi,Debit Card,103140
+483,2024-04-27,Headphones,Electronics,3,47971,Delhi,Cash on Delivery,143913
+484,2024-04-28,Smartwatch,Electronics,4,18071,Chennai,Net Banking,72284
+485,2024-04-29,Laptop,Accessories,2,21074,Delhi,Cash on Delivery,42148
+486,2024-04-30,Mobile Phone,Electronics,3,26188,Bangalore,Cash on Delivery,78564
+487,2024-05-01,Laptop,Electronics,1,3307,Kolkata,Credit Card,3307
+488,2024-05-02,Mobile Phone,Accessories,3,40901,Kolkata,Net Banking,122703
+489,2024-05-03,Camera,Electronics,3,12205,Chennai,UPI,36615
+490,2024-05-04,Headphones,Accessories,3,6906,Bangalore,Credit Card,20718
+491,2024-05-05,Laptop,Electronics,4,3591,Bangalore,UPI,14364
+492,2024-05-06,Smartwatch,Accessories,1,16149,Delhi,Debit Card,16149
+493,2024-05-07,Camera,Electronics,2,45918,Bangalore,UPI,91836
+494,2024-05-08,Laptop,Electronics,1,40951,Mumbai,Cash on Delivery,40951
+495,2024-05-09,Smartwatch,Accessories,2,26150,Delhi,UPI,52300
+496,2024-05-10,Laptop,Electronics,4,32852,Mumbai,Credit Card,131408
+497,2024-05-11,Mobile Phone,Accessories,4,43870,Chennai,Credit Card,175480
+498,2024-05-12,Laptop,Electronics,4,2283,Kolkata,UPI,9132
+499,2024-05-13,Laptop,Accessories,4,34691,Chennai,Credit Card,138764
+500,2024-05-14,Laptop,Accessories,2,2125,Kolkata,Credit Card,4250
+501,2024-05-15,Camera,Accessories,3,2529,Chennai,UPI,7587
+502,2024-05-16,Laptop,Accessories,2,27170,Bangalore,Net Banking,54340
+503,2024-05-17,Smartwatch,Electronics,1,9438,Mumbai,Net Banking,9438
+504,2024-05-18,Mobile Phone,Electronics,4,21095,Kolkata,Debit Card,84380
+505,2024-05-19,Mobile Phone,Accessories,4,17154,Delhi,Credit Card,68616
+506,2024-05-20,Laptop,Accessories,1,9004,Mumbai,UPI,9004
+507,2024-05-21,Camera,Accessories,2,10752,Delhi,Credit Card,21504
+508,2024-05-22,Camera,Electronics,3,44360,Mumbai,Cash on Delivery,133080
+509,2024-05-23,Smartwatch,Electronics,3,27819,Mumbai,Credit Card,83457
+510,2024-05-24,Laptop,Electronics,1,37632,Chennai,Credit Card,37632
+511,2024-05-25,Mobile Phone,Electronics,3,27515,Kolkata,Net Banking,82545
+512,2024-05-26,Camera,Accessories,2,25217,Kolkata,UPI,50434
+513,2024-05-27,Laptop,Accessories,2,24172,Mumbai,Credit Card,48344
+514,2024-05-28,Camera,Accessories,1,33994,Bangalore,Net Banking,33994
+515,2024-05-29,Camera,Electronics,2,16036,Bangalore,Debit Card,32072
+516,2024-05-30,Mobile Phone,Electronics,4,12739,Delhi,Net Banking,50956
+517,2024-05-31,Headphones,Electronics,1,33220,Delhi,Net Banking,33220
+518,2024-06-01,Smartwatch,Accessories,2,10587,Chennai,Net Banking,21174
+519,2024-06-02,Smartwatch,Accessories,1,45517,Mumbai,Credit Card,45517
+520,2024-06-03,Mobile Phone,Electronics,3,31129,Delhi,Credit Card,93387
+521,2024-06-04,Camera,Accessories,2,1645,Delhi,Debit Card,3290
+522,2024-06-05,Laptop,Electronics,4,31930,Mumbai,Cash on Delivery,127720
+523,2024-06-06,Camera,Electronics,2,17299,Chennai,Cash on Delivery,34598
+524,2024-06-07,Mobile Phone,Accessories,1,31090,Delhi,Cash on Delivery,31090
+525,2024-06-08,Smartwatch,Electronics,1,22953,Chennai,Debit Card,22953
+526,2024-06-09,Camera,Accessories,2,47443,Kolkata,Cash on Delivery,94886
+527,2024-06-10,Smartwatch,Electronics,4,27475,Chennai,Cash on Delivery,109900
+528,2024-06-11,Laptop,Accessories,4,19888,Bangalore,Net Banking,79552
+529,2024-06-12,Smartwatch,Accessories,4,44732,Bangalore,Credit Card,178928
+530,2024-06-13,Smartwatch,Accessories,1,17087,Chennai,Credit Card,17087
+531,2024-06-14,Headphones,Electronics,2,47305,Bangalore,Net Banking,94610
+532,2024-06-15,Headphones,Electronics,3,47037,Kolkata,Net Banking,141111
+533,2024-06-16,Headphones,Accessories,1,10346,Mumbai,Net Banking,10346
+534,2024-06-17,Smartwatch,Accessories,4,1587,Bangalore,Credit Card,6348
+535,2024-06-18,Mobile Phone,Electronics,2,13763,Bangalore,Cash on Delivery,27526
+536,2024-06-19,Smartwatch,Electronics,4,42945,Chennai,Net Banking,171780
+537,2024-06-20,Mobile Phone,Electronics,3,5079,Kolkata,Debit Card,15237
+538,2024-06-21,Mobile Phone,Accessories,4,37116,Mumbai,Net Banking,148464
+539,2024-06-22,Headphones,Electronics,4,21215,Chennai,UPI,84860
+540,2024-06-23,Camera,Electronics,3,26817,Chennai,Net Banking,80451
+541,2024-06-24,Laptop,Accessories,2,25765,Kolkata,Credit Card,51530
+542,2024-06-25,Headphones,Electronics,1,31112,Mumbai,Net Banking,31112
+543,2024-06-26,Headphones,Electronics,2,26556,Kolkata,UPI,53112
+544,2024-06-27,Camera,Electronics,3,19099,Mumbai,Debit Card,57297
+545,2024-06-28,Laptop,Accessories,4,44553,Kolkata,Cash on Delivery,178212
+546,2024-06-29,Smartwatch,Accessories,2,46096,Chennai,Net Banking,92192
+547,2024-06-30,Smartwatch,Accessories,1,7450,Chennai,UPI,7450
+548,2024-07-01,Headphones,Accessories,3,14230,Delhi,UPI,42690
+549,2024-07-02,Laptop,Accessories,2,30009,Bangalore,Debit Card,60018
+550,2024-07-03,Headphones,Accessories,1,6433,Kolkata,Credit Card,6433
+551,2024-07-04,Mobile Phone,Accessories,3,34866,Delhi,Net Banking,104598
+552,2024-07-05,Headphones,Electronics,1,40864,Bangalore,UPI,40864
+553,2024-07-06,Headphones,Electronics,3,19710,Kolkata,Debit Card,59130
+554,2024-07-07,Smartwatch,Accessories,4,12439,Mumbai,Cash on Delivery,49756
+555,2024-07-08,Smartwatch,Electronics,2,42855,Bangalore,UPI,85710
+556,2024-07-09,Smartwatch,Electronics,1,17021,Chennai,Debit Card,17021
+557,2024-07-10,Mobile Phone,Accessories,3,7416,Delhi,Credit Card,22248
+558,2024-07-11,Smartwatch,Electronics,1,7980,Bangalore,Credit Card,7980
+559,2024-07-12,Laptop,Electronics,1,19058,Bangalore,UPI,19058
+560,2024-07-13,Camera,Electronics,2,12101,Chennai,UPI,24202
+561,2024-07-14,Laptop,Electronics,4,41718,Kolkata,Net Banking,166872
+562,2024-07-15,Laptop,Electronics,1,33602,Mumbai,Debit Card,33602
+563,2024-07-16,Smartwatch,Accessories,3,10122,Chennai,UPI,30366
+564,2024-07-17,Camera,Accessories,3,13576,Mumbai,Net Banking,40728
+565,2024-07-18,Camera,Accessories,4,28516,Kolkata,Net Banking,114064
+566,2024-07-19,Camera,Electronics,3,23433,Bangalore,UPI,70299
+567,2024-07-20,Mobile Phone,Accessories,4,2089,Mumbai,Credit Card,8356
+568,2024-07-21,Smartwatch,Electronics,3,38346,Delhi,Debit Card,115038
+569,2024-07-22,Camera,Electronics,2,10127,Delhi,Debit Card,20254
+570,2024-07-23,Mobile Phone,Electronics,1,11487,Chennai,Credit Card,11487
+571,2024-07-24,Headphones,Electronics,2,1155,Kolkata,UPI,2310
+572,2024-07-25,Headphones,Accessories,1,2958,Chennai,Debit Card,2958
+573,2024-07-26,Mobile Phone,Accessories,1,11693,Chennai,UPI,11693
+574,2024-07-27,Mobile Phone,Electronics,1,40112,Chennai,UPI,40112
+575,2024-07-28,Smartwatch,Accessories,2,39547,Delhi,Net Banking,79094
+576,2024-07-29,Smartwatch,Electronics,1,29795,Delhi,Credit Card,29795
+577,2024-07-30,Headphones,Accessories,2,22447,Chennai,UPI,44894
+578,2024-07-31,Camera,Accessories,4,37598,Delhi,Cash on Delivery,150392
+579,2024-08-01,Headphones,Electronics,3,42814,Kolkata,Credit Card,128442
+580,2024-08-02,Camera,Accessories,3,26215,Chennai,Debit Card,78645
+581,2024-08-03,Camera,Electronics,1,10794,Delhi,Net Banking,10794
+582,2024-08-04,Smartwatch,Accessories,2,34209,Mumbai,Debit Card,68418
+583,2024-08-05,Laptop,Electronics,3,23424,Chennai,Debit Card,70272
+584,2024-08-06,Laptop,Electronics,2,48246,Chennai,Credit Card,96492
+585,2024-08-07,Mobile Phone,Accessories,2,38396,Kolkata,Debit Card,76792
+586,2024-08-08,Smartwatch,Accessories,1,7370,Bangalore,UPI,7370
+587,2024-08-09,Camera,Electronics,3,10528,Bangalore,Debit Card,31584
+588,2024-08-10,Laptop,Accessories,1,29276,Kolkata,Net Banking,29276
+589,2024-08-11,Camera,Accessories,1,45333,Kolkata,Net Banking,45333
+590,2024-08-12,Laptop,Electronics,3,9179,Kolkata,Cash on Delivery,27537
+591,2024-08-13,Laptop,Electronics,3,49781,Bangalore,Net Banking,149343
+592,2024-08-14,Laptop,Accessories,4,17843,Kolkata,Debit Card,71372
+593,2024-08-15,Smartwatch,Electronics,4,24952,Delhi,Net Banking,99808
+594,2024-08-16,Headphones,Electronics,2,34160,Chennai,Credit Card,68320
+595,2024-08-17,Camera,Electronics,3,45898,Chennai,Net Banking,137694
+596,2024-08-18,Smartwatch,Accessories,4,30516,Mumbai,UPI,122064
+597,2024-08-19,Smartwatch,Accessories,2,11449,Mumbai,Credit Card,22898
+598,2024-08-20,Smartwatch,Electronics,2,22125,Chennai,Cash on Delivery,44250
+599,2024-08-21,Smartwatch,Accessories,2,8418,Delhi,UPI,16836
+600,2024-08-22,Smartwatch,Electronics,4,23746,Bangalore,Debit Card,94984
+601,2024-08-23,Mobile Phone,Accessories,3,3454,Bangalore,Debit Card,10362
+602,2024-08-24,Camera,Electronics,1,18761,Delhi,Debit Card,18761
+603,2024-08-25,Smartwatch,Electronics,2,16223,Bangalore,UPI,32446
+604,2024-08-26,Camera,Accessories,4,7701,Kolkata,UPI,30804
+605,2024-08-27,Mobile Phone,Electronics,4,3597,Chennai,UPI,14388
+606,2024-08-28,Mobile Phone,Accessories,1,1141,Chennai,Credit Card,1141
+607,2024-08-29,Camera,Accessories,1,3659,Delhi,Credit Card,3659
+608,2024-08-30,Laptop,Electronics,4,21980,Bangalore,Debit Card,87920
+609,2024-08-31,Headphones,Electronics,3,10031,Mumbai,Net Banking,30093
+610,2024-09-01,Laptop,Accessories,1,16037,Mumbai,Debit Card,16037
+611,2024-09-02,Laptop,Electronics,4,47738,Bangalore,Cash on Delivery,190952
+612,2024-09-03,Laptop,Electronics,1,39429,Mumbai,Credit Card,39429
+613,2024-09-04,Smartwatch,Electronics,3,7142,Delhi,UPI,21426
+614,2024-09-05,Mobile Phone,Electronics,2,13109,Delhi,Credit Card,26218
+615,2024-09-06,Laptop,Electronics,1,23010,Bangalore,UPI,23010
+616,2024-09-07,Mobile Phone,Accessories,3,9787,Mumbai,Cash on Delivery,29361
+617,2024-09-08,Camera,Accessories,4,43864,Delhi,Cash on Delivery,175456
+618,2024-09-09,Headphones,Electronics,1,9472,Delhi,Credit Card,9472
+619,2024-09-10,Camera,Electronics,1,24383,Kolkata,UPI,24383
+620,2024-09-11,Camera,Electronics,4,5249,Kolkata,Cash on Delivery,20996
+621,2024-09-12,Smartwatch,Accessories,2,48717,Delhi,Debit Card,97434
+622,2024-09-13,Headphones,Electronics,4,35518,Bangalore,Debit Card,142072
+623,2024-09-14,Camera,Accessories,1,19351,Chennai,UPI,19351
+624,2024-09-15,Camera,Accessories,4,5088,Chennai,Credit Card,20352
+625,2024-09-16,Headphones,Accessories,3,16282,Delhi,Cash on Delivery,48846
+626,2024-09-17,Headphones,Electronics,4,20330,Delhi,Credit Card,81320
+627,2024-09-18,Camera,Accessories,1,43409,Delhi,Debit Card,43409
+628,2024-09-19,Headphones,Electronics,4,22778,Bangalore,Cash on Delivery,91112
+629,2024-09-20,Camera,Accessories,2,25264,Kolkata,Credit Card,50528
+630,2024-09-21,Camera,Electronics,4,6075,Delhi,Net Banking,24300
+631,2024-09-22,Smartwatch,Accessories,2,11412,Delhi,UPI,22824
+632,2024-09-23,Laptop,Electronics,3,49454,Mumbai,UPI,148362
+633,2024-09-24,Camera,Accessories,2,29365,Bangalore,Net Banking,58730
+634,2024-09-25,Mobile Phone,Electronics,4,8230,Delhi,Debit Card,32920
+635,2024-09-26,Laptop,Electronics,1,49200,Mumbai,Cash on Delivery,49200
+636,2024-09-27,Laptop,Electronics,2,12002,Chennai,UPI,24004
+637,2024-09-28,Laptop,Electronics,3,14947,Delhi,Net Banking,44841
+638,2024-09-29,Smartwatch,Accessories,2,14686,Delhi,Net Banking,29372
+639,2024-09-30,Camera,Accessories,2,30304,Mumbai,Debit Card,60608
+640,2024-10-01,Smartwatch,Electronics,2,14074,Bangalore,Debit Card,28148
+641,2024-10-02,Camera,Accessories,3,5493,Delhi,Credit Card,16479
+642,2024-10-03,Smartwatch,Electronics,4,35228,Chennai,UPI,140912
+643,2024-10-04,Smartwatch,Electronics,2,15140,Delhi,Credit Card,30280
+644,2024-10-05,Mobile Phone,Accessories,2,32655,Chennai,Net Banking,65310
+645,2024-10-06,Smartwatch,Electronics,1,44472,Kolkata,Cash on Delivery,44472
+646,2024-10-07,Headphones,Electronics,3,7816,Kolkata,Cash on Delivery,23448
+647,2024-10-08,Mobile Phone,Accessories,2,12639,Chennai,Debit Card,25278
+648,2024-10-09,Smartwatch,Electronics,3,48192,Bangalore,Cash on Delivery,144576
+649,2024-10-10,Laptop,Electronics,2,47733,Delhi,Cash on Delivery,95466
+650,2024-10-11,Headphones,Electronics,4,30492,Delhi,Cash on Delivery,121968
+651,2024-10-12,Headphones,Electronics,4,12240,Kolkata,Net Banking,48960
+652,2024-10-13,Headphones,Accessories,2,33698,Chennai,Cash on Delivery,67396
+653,2024-10-14,Mobile Phone,Accessories,4,27957,Delhi,Cash on Delivery,111828
+654,2024-10-15,Smartwatch,Accessories,2,33808,Delhi,Cash on Delivery,67616
+655,2024-10-16,Smartwatch,Electronics,4,6827,Bangalore,Credit Card,27308
+656,2024-10-17,Laptop,Electronics,1,33762,Mumbai,Net Banking,33762
+657,2024-10-18,Laptop,Accessories,1,9259,Kolkata,Debit Card,9259
+658,2024-10-19,Headphones,Electronics,1,15849,Kolkata,Credit Card,15849
+659,2024-10-20,Laptop,Electronics,3,17232,Mumbai,UPI,51696
+660,2024-10-21,Mobile Phone,Electronics,3,41572,Delhi,Net Banking,124716
+661,2024-10-22,Smartwatch,Electronics,1,25173,Bangalore,Net Banking,25173
+662,2024-10-23,Headphones,Accessories,3,6374,Bangalore,UPI,19122
+663,2024-10-24,Laptop,Accessories,4,22174,Kolkata,UPI,88696
+664,2024-10-25,Mobile Phone,Accessories,2,24567,Bangalore,UPI,49134
+665,2024-10-26,Mobile Phone,Electronics,2,36292,Mumbai,Debit Card,72584
+666,2024-10-27,Laptop,Accessories,2,10277,Delhi,Cash on Delivery,20554
+667,2024-10-28,Smartwatch,Accessories,1,32600,Mumbai,Net Banking,32600
+668,2024-10-29,Laptop,Electronics,3,10885,Chennai,Cash on Delivery,32655
+669,2024-10-30,Headphones,Electronics,4,1778,Kolkata,Cash on Delivery,7112
+670,2024-10-31,Laptop,Accessories,4,30165,Bangalore,UPI,120660
+671,2024-11-01,Mobile Phone,Accessories,1,2492,Chennai,Debit Card,2492
+672,2024-11-02,Laptop,Accessories,4,31462,Bangalore,Credit Card,125848
+673,2024-11-03,Smartwatch,Accessories,4,14615,Delhi,Debit Card,58460
+674,2024-11-04,Camera,Electronics,4,45900,Delhi,Cash on Delivery,183600
+675,2024-11-05,Laptop,Accessories,4,43946,Delhi,Debit Card,175784
+676,2024-11-06,Smartwatch,Accessories,3,8851,Bangalore,UPI,26553
+677,2024-11-07,Smartwatch,Electronics,4,17288,Chennai,Credit Card,69152
+678,2024-11-08,Mobile Phone,Accessories,2,8156,Delhi,UPI,16312
+679,2024-11-09,Smartwatch,Electronics,1,3044,Chennai,Credit Card,3044
+680,2024-11-10,Smartwatch,Electronics,3,8368,Bangalore,Cash on Delivery,25104
+681,2024-11-11,Smartwatch,Electronics,4,20900,Chennai,Credit Card,83600
+682,2024-11-12,Smartwatch,Accessories,3,31600,Bangalore,Credit Card,94800
+683,2024-11-13,Headphones,Accessories,4,47403,Bangalore,Credit Card,189612
+684,2024-11-14,Headphones,Electronics,2,26634,Kolkata,Debit Card,53268
+685,2024-11-15,Mobile Phone,Accessories,1,10168,Bangalore,Debit Card,10168
+686,2024-11-16,Laptop,Accessories,4,21961,Bangalore,Cash on Delivery,87844
+687,2024-11-17,Smartwatch,Electronics,4,45096,Mumbai,Credit Card,180384
+688,2024-11-18,Laptop,Electronics,4,47087,Delhi,Net Banking,188348
+689,2024-11-19,Laptop,Accessories,4,24852,Kolkata,Cash on Delivery,99408
+690,2024-11-20,Mobile Phone,Electronics,1,34110,Kolkata,Credit Card,34110
+691,2024-11-21,Smartwatch,Accessories,1,33174,Kolkata,Credit Card,33174
+692,2024-11-22,Smartwatch,Accessories,2,35215,Mumbai,Debit Card,70430
+693,2024-11-23,Camera,Accessories,1,27955,Bangalore,Cash on Delivery,27955
+694,2024-11-24,Laptop,Accessories,4,7581,Delhi,Credit Card,30324
+695,2024-11-25,Laptop,Electronics,2,45619,Chennai,Credit Card,91238
+696,2024-11-26,Headphones,Electronics,2,7317,Bangalore,Cash on Delivery,14634
+697,2024-11-27,Camera,Electronics,2,43856,Mumbai,Net Banking,87712
+698,2024-11-28,Headphones,Electronics,4,46714,Bangalore,Cash on Delivery,186856
+699,2024-11-29,Headphones,Accessories,3,27649,Bangalore,Cash on Delivery,82947
+700,2024-11-30,Headphones,Accessories,4,24132,Mumbai,Net Banking,96528
+701,2024-12-01,Mobile Phone,Electronics,1,17789,Kolkata,Cash on Delivery,17789
+702,2024-12-02,Mobile Phone,Accessories,1,15567,Kolkata,Credit Card,15567
+703,2024-12-03,Headphones,Accessories,4,15868,Delhi,Cash on Delivery,63472
+704,2024-12-04,Camera,Accessories,4,25370,Delhi,Net Banking,101480
+705,2024-12-05,Laptop,Electronics,2,43533,Kolkata,UPI,87066
+706,2024-12-06,Camera,Electronics,4,31483,Chennai,Cash on Delivery,125932
+707,2024-12-07,Smartwatch,Electronics,2,13466,Bangalore,Debit Card,26932
+708,2024-12-08,Mobile Phone,Accessories,1,29803,Chennai,Credit Card,29803
+709,2024-12-09,Laptop,Electronics,2,19230,Bangalore,Credit Card,38460
+710,2024-12-10,Laptop,Electronics,4,18862,Kolkata,Debit Card,75448
+711,2024-12-11,Smartwatch,Electronics,1,44355,Delhi,Debit Card,44355
+712,2024-12-12,Smartwatch,Electronics,3,32259,Delhi,Cash on Delivery,96777
+713,2024-12-13,Headphones,Electronics,2,34539,Chennai,Debit Card,69078
+714,2024-12-14,Mobile Phone,Electronics,1,22909,Delhi,UPI,22909
+715,2024-12-15,Mobile Phone,Accessories,2,31795,Kolkata,Net Banking,63590
+716,2024-12-16,Camera,Accessories,1,9770,Chennai,Debit Card,9770
+717,2024-12-17,Headphones,Electronics,1,12093,Bangalore,Debit Card,12093
+718,2024-12-18,Headphones,Electronics,2,47571,Delhi,UPI,95142
+719,2024-12-19,Headphones,Accessories,3,1193,Mumbai,Credit Card,3579
+720,2024-12-20,Headphones,Accessories,1,35775,Delhi,Credit Card,35775
+721,2024-12-21,Mobile Phone,Electronics,1,18569,Bangalore,Cash on Delivery,18569
+722,2024-12-22,Mobile Phone,Electronics,1,12190,Chennai,UPI,12190
+723,2024-12-23,Headphones,Electronics,3,43752,Bangalore,Net Banking,131256
+724,2024-12-24,Camera,Electronics,3,33327,Mumbai,Net Banking,99981
+725,2024-12-25,Laptop,Accessories,4,43070,Kolkata,UPI,172280
+726,2024-12-26,Laptop,Electronics,2,21389,Delhi,Net Banking,42778
+727,2024-12-27,Camera,Electronics,3,41197,Chennai,Credit Card,123591
+728,2024-12-28,Headphones,Electronics,2,3261,Kolkata,Net Banking,6522
+729,2024-12-29,Mobile Phone,Electronics,4,29369,Bangalore,Net Banking,117476
+730,2024-12-30,Laptop,Accessories,2,27512,Chennai,UPI,55024
+731,2024-12-31,Smartwatch,Accessories,3,7716,Kolkata,UPI,23148
+732,2025-01-01,Smartwatch,Accessories,2,22259,Chennai,Net Banking,44518
+733,2025-01-02,Camera,Electronics,3,29933,Mumbai,Debit Card,89799
+734,2025-01-03,Headphones,Electronics,2,42689,Mumbai,UPI,85378
+735,2025-01-04,Laptop,Accessories,3,5378,Delhi,Cash on Delivery,16134
+736,2025-01-05,Headphones,Electronics,3,41583,Delhi,Cash on Delivery,124749
+737,2025-01-06,Laptop,Electronics,2,47546,Mumbai,Credit Card,95092
+738,2025-01-07,Camera,Accessories,4,20835,Chennai,Net Banking,83340
+739,2025-01-08,Camera,Accessories,1,30033,Mumbai,Debit Card,30033
+740,2025-01-09,Smartwatch,Accessories,4,25000,Delhi,Credit Card,100000
+741,2025-01-10,Headphones,Accessories,2,46496,Mumbai,Net Banking,92992
+742,2025-01-11,Smartwatch,Electronics,4,11332,Mumbai,UPI,45328
+743,2025-01-12,Headphones,Electronics,3,43604,Chennai,Cash on Delivery,130812
+744,2025-01-13,Smartwatch,Accessories,1,3800,Kolkata,Debit Card,3800
+745,2025-01-14,Mobile Phone,Electronics,2,30538,Delhi,Cash on Delivery,61076
+746,2025-01-15,Mobile Phone,Accessories,2,31119,Chennai,UPI,62238
+747,2025-01-16,Mobile Phone,Accessories,2,9333,Mumbai,Net Banking,18666
+748,2025-01-17,Mobile Phone,Electronics,1,6410,Mumbai,UPI,6410
+749,2025-01-18,Laptop,Accessories,3,18839,Kolkata,UPI,56517
+750,2025-01-19,Mobile Phone,Electronics,2,31519,Delhi,Cash on Delivery,63038
+751,2025-01-20,Camera,Electronics,4,6808,Delhi,Debit Card,27232
+752,2025-01-21,Camera,Electronics,2,7796,Bangalore,UPI,15592
+753,2025-01-22,Laptop,Electronics,2,22180,Delhi,Cash on Delivery,44360
+754,2025-01-23,Mobile Phone,Accessories,2,44056,Kolkata,Debit Card,88112
+755,2025-01-24,Mobile Phone,Electronics,2,18709,Bangalore,Net Banking,37418
+756,2025-01-25,Mobile Phone,Accessories,3,18543,Bangalore,Net Banking,55629
+757,2025-01-26,Smartwatch,Accessories,4,38418,Mumbai,Credit Card,153672
+758,2025-01-27,Headphones,Accessories,3,30075,Mumbai,Cash on Delivery,90225
+759,2025-01-28,Smartwatch,Accessories,4,38755,Delhi,Debit Card,155020
+760,2025-01-29,Headphones,Electronics,2,48968,Bangalore,UPI,97936
+761,2025-01-30,Mobile Phone,Electronics,1,38465,Mumbai,Net Banking,38465
+762,2025-01-31,Mobile Phone,Accessories,3,31502,Kolkata,Debit Card,94506
+763,2025-02-01,Smartwatch,Accessories,1,17724,Mumbai,Cash on Delivery,17724
+764,2025-02-02,Smartwatch,Electronics,3,4828,Mumbai,Credit Card,14484
+765,2025-02-03,Headphones,Accessories,2,18087,Bangalore,Net Banking,36174
+766,2025-02-04,Camera,Electronics,3,13605,Bangalore,Debit Card,40815
+767,2025-02-05,Headphones,Accessories,2,32337,Chennai,Debit Card,64674
+768,2025-02-06,Smartwatch,Electronics,3,6482,Kolkata,Debit Card,19446
+769,2025-02-07,Smartwatch,Accessories,2,28005,Bangalore,Cash on Delivery,56010
+770,2025-02-08,Laptop,Accessories,2,23760,Delhi,Cash on Delivery,47520
+771,2025-02-09,Smartwatch,Electronics,4,6463,Kolkata,Cash on Delivery,25852
+772,2025-02-10,Laptop,Accessories,2,47628,Kolkata,UPI,95256
+773,2025-02-11,Camera,Accessories,4,5912,Bangalore,Debit Card,23648
+774,2025-02-12,Headphones,Electronics,2,5648,Kolkata,Net Banking,11296
+775,2025-02-13,Headphones,Accessories,1,34623,Bangalore,Cash on Delivery,34623
+776,2025-02-14,Laptop,Electronics,2,36634,Mumbai,Cash on Delivery,73268
+777,2025-02-15,Headphones,Electronics,1,45602,Chennai,Debit Card,45602
+778,2025-02-16,Smartwatch,Accessories,1,4112,Mumbai,Cash on Delivery,4112
+779,2025-02-17,Mobile Phone,Accessories,2,23054,Bangalore,UPI,46108
+780,2025-02-18,Laptop,Accessories,1,5492,Bangalore,UPI,5492
+781,2025-02-19,Headphones,Accessories,4,23207,Mumbai,Cash on Delivery,92828
+782,2025-02-20,Laptop,Accessories,3,16114,Delhi,Debit Card,48342
+783,2025-02-21,Laptop,Accessories,2,35285,Delhi,Debit Card,70570
+784,2025-02-22,Mobile Phone,Accessories,1,17018,Delhi,Debit Card,17018
+785,2025-02-23,Smartwatch,Electronics,2,22386,Bangalore,Credit Card,44772
+786,2025-02-24,Laptop,Accessories,4,18740,Kolkata,Cash on Delivery,74960
+787,2025-02-25,Headphones,Electronics,2,45199,Bangalore,Debit Card,90398
+788,2025-02-26,Camera,Accessories,2,9210,Kolkata,UPI,18420
+789,2025-02-27,Laptop,Accessories,1,45363,Mumbai,Net Banking,45363
+790,2025-02-28,Laptop,Electronics,4,46639,Chennai,Net Banking,186556
+791,2025-03-01,Mobile Phone,Accessories,3,13743,Kolkata,Debit Card,41229
+792,2025-03-02,Smartwatch,Accessories,3,43092,Delhi,Net Banking,129276
+793,2025-03-03,Camera,Electronics,1,45299,Bangalore,Net Banking,45299
+794,2025-03-04,Headphones,Accessories,2,7588,Mumbai,Credit Card,15176
+795,2025-03-05,Camera,Accessories,1,4311,Delhi,UPI,4311
+796,2025-03-06,Headphones,Accessories,1,23432,Mumbai,UPI,23432
+797,2025-03-07,Smartwatch,Electronics,1,34755,Chennai,Credit Card,34755
+798,2025-03-08,Headphones,Accessories,2,4321,Bangalore,Credit Card,8642
+799,2025-03-09,Mobile Phone,Accessories,4,16812,Bangalore,Net Banking,67248
+800,2025-03-10,Mobile Phone,Accessories,1,38383,Chennai,Cash on Delivery,38383
+801,2025-03-11,Mobile Phone,Accessories,2,49280,Bangalore,Net Banking,98560
+802,2025-03-12,Mobile Phone,Electronics,4,14146,Kolkata,Credit Card,56584
+803,2025-03-13,Camera,Electronics,1,14654,Mumbai,UPI,14654
+804,2025-03-14,Smartwatch,Accessories,3,36820,Delhi,Net Banking,110460
+805,2025-03-15,Headphones,Accessories,4,1726,Chennai,Cash on Delivery,6904
+806,2025-03-16,Headphones,Electronics,1,4760,Kolkata,Net Banking,4760
+807,2025-03-17,Mobile Phone,Electronics,4,23190,Delhi,Debit Card,92760
+808,2025-03-18,Mobile Phone,Accessories,4,2875,Delhi,Net Banking,11500
+809,2025-03-19,Laptop,Electronics,4,24377,Chennai,Credit Card,97508
+810,2025-03-20,Smartwatch,Accessories,4,47737,Kolkata,UPI,190948
+811,2025-03-21,Camera,Electronics,4,5033,Delhi,UPI,20132
+812,2025-03-22,Headphones,Electronics,4,39211,Delhi,Credit Card,156844
+813,2025-03-23,Laptop,Electronics,1,18373,Kolkata,Debit Card,18373
+814,2025-03-24,Laptop,Electronics,3,4744,Bangalore,Credit Card,14232
+815,2025-03-25,Headphones,Accessories,2,25995,Delhi,Net Banking,51990
+816,2025-03-26,Camera,Electronics,4,17977,Mumbai,Credit Card,71908
+817,2025-03-27,Laptop,Electronics,2,33402,Kolkata,Credit Card,66804
+818,2025-03-28,Laptop,Accessories,1,35542,Delhi,Debit Card,35542
+819,2025-03-29,Smartwatch,Electronics,4,11651,Chennai,Net Banking,46604
+820,2025-03-30,Camera,Electronics,3,34703,Mumbai,Cash on Delivery,104109
+821,2025-03-31,Laptop,Accessories,2,14395,Delhi,Cash on Delivery,28790
+822,2025-04-01,Camera,Electronics,4,30808,Mumbai,UPI,123232
+823,2025-04-02,Headphones,Accessories,1,37576,Mumbai,Credit Card,37576
+824,2025-04-03,Mobile Phone,Accessories,3,17715,Bangalore,UPI,53145
+825,2025-04-04,Laptop,Accessories,2,45409,Mumbai,Debit Card,90818
+826,2025-04-05,Smartwatch,Accessories,2,25306,Bangalore,Cash on Delivery,50612
+827,2025-04-06,Headphones,Electronics,4,20086,Kolkata,Credit Card,80344
+828,2025-04-07,Camera,Accessories,3,15376,Bangalore,Debit Card,46128
+829,2025-04-08,Headphones,Electronics,3,6889,Chennai,Debit Card,20667
+830,2025-04-09,Laptop,Electronics,3,38822,Delhi,Credit Card,116466
+831,2025-04-10,Camera,Electronics,3,37636,Kolkata,Debit Card,112908
+832,2025-04-11,Mobile Phone,Electronics,1,21584,Kolkata,Credit Card,21584
+833,2025-04-12,Headphones,Electronics,3,35610,Chennai,Credit Card,106830
+834,2025-04-13,Laptop,Electronics,2,11058,Bangalore,Net Banking,22116
+835,2025-04-14,Smartwatch,Electronics,2,10101,Delhi,UPI,20202
+836,2025-04-15,Camera,Electronics,1,13497,Bangalore,Debit Card,13497
+837,2025-04-16,Headphones,Electronics,2,5658,Mumbai,Debit Card,11316
+838,2025-04-17,Headphones,Electronics,2,12381,Bangalore,Net Banking,24762
+839,2025-04-18,Mobile Phone,Accessories,3,41312,Kolkata,Net Banking,123936
+840,2025-04-19,Mobile Phone,Accessories,2,41486,Delhi,Net Banking,82972
+841,2025-04-20,Smartwatch,Accessories,1,47619,Bangalore,Cash on Delivery,47619
+842,2025-04-21,Smartwatch,Electronics,3,18154,Delhi,Cash on Delivery,54462
+843,2025-04-22,Laptop,Accessories,4,20539,Delhi,Cash on Delivery,82156
+844,2025-04-23,Laptop,Accessories,3,12777,Mumbai,Credit Card,38331
+845,2025-04-24,Smartwatch,Accessories,1,35396,Mumbai,Debit Card,35396
+846,2025-04-25,Smartwatch,Electronics,3,31373,Kolkata,UPI,94119
+847,2025-04-26,Camera,Electronics,3,34154,Chennai,Credit Card,102462
+848,2025-04-27,Mobile Phone,Electronics,1,7031,Delhi,Debit Card,7031
+849,2025-04-28,Laptop,Electronics,3,28997,Chennai,Debit Card,86991
+850,2025-04-29,Mobile Phone,Accessories,1,7439,Kolkata,Net Banking,7439
+851,2025-04-30,Mobile Phone,Accessories,1,23785,Delhi,Net Banking,23785
+852,2025-05-01,Smartwatch,Accessories,4,14392,Delhi,Credit Card,57568
+853,2025-05-02,Camera,Accessories,2,29669,Chennai,Net Banking,59338
+854,2025-05-03,Headphones,Electronics,2,29939,Bangalore,Debit Card,59878
+855,2025-05-04,Camera,Electronics,3,3282,Mumbai,Net Banking,9846
+856,2025-05-05,Camera,Electronics,3,35624,Bangalore,Cash on Delivery,106872
+857,2025-05-06,Mobile Phone,Accessories,4,49438,Chennai,Net Banking,197752
+858,2025-05-07,Camera,Electronics,4,25364,Mumbai,Debit Card,101456
+859,2025-05-08,Laptop,Electronics,4,2998,Bangalore,Credit Card,11992
+860,2025-05-09,Mobile Phone,Accessories,1,32705,Mumbai,UPI,32705
+861,2025-05-10,Laptop,Accessories,4,39244,Delhi,Net Banking,156976
+862,2025-05-11,Headphones,Electronics,4,10428,Bangalore,Debit Card,41712
+863,2025-05-12,Mobile Phone,Electronics,3,38437,Mumbai,UPI,115311
+864,2025-05-13,Headphones,Electronics,4,13336,Mumbai,UPI,53344
+865,2025-05-14,Mobile Phone,Electronics,1,10342,Mumbai,Cash on Delivery,10342
+866,2025-05-15,Smartwatch,Electronics,1,40832,Bangalore,UPI,40832
+867,2025-05-16,Camera,Electronics,3,8446,Kolkata,Debit Card,25338
+868,2025-05-17,Smartwatch,Accessories,4,39392,Bangalore,Debit Card,157568
+869,2025-05-18,Headphones,Accessories,4,8461,Chennai,Net Banking,33844
+870,2025-05-19,Camera,Accessories,1,35587,Bangalore,Net Banking,35587
+871,2025-05-20,Mobile Phone,Electronics,4,11516,Mumbai,Net Banking,46064
+872,2025-05-21,Camera,Accessories,4,14749,Delhi,UPI,58996
+873,2025-05-22,Laptop,Electronics,4,18514,Bangalore,UPI,74056
+874,2025-05-23,Camera,Electronics,2,36426,Bangalore,Cash on Delivery,72852
+875,2025-05-24,Laptop,Accessories,3,37268,Mumbai,Net Banking,111804
+876,2025-05-25,Camera,Electronics,2,25950,Delhi,Credit Card,51900
+877,2025-05-26,Laptop,Electronics,3,35888,Delhi,Cash on Delivery,107664
+878,2025-05-27,Headphones,Accessories,1,37788,Chennai,Credit Card,37788
+879,2025-05-28,Smartwatch,Accessories,4,11213,Bangalore,UPI,44852
+880,2025-05-29,Mobile Phone,Accessories,3,37027,Delhi,Cash on Delivery,111081
+881,2025-05-30,Camera,Electronics,2,29011,Delhi,Cash on Delivery,58022
+882,2025-05-31,Smartwatch,Accessories,4,43849,Kolkata,Debit Card,175396
+883,2025-06-01,Mobile Phone,Accessories,1,35591,Kolkata,UPI,35591
+884,2025-06-02,Mobile Phone,Electronics,3,18858,Delhi,UPI,56574
+885,2025-06-03,Laptop,Accessories,3,19626,Chennai,Cash on Delivery,58878
+886,2025-06-04,Headphones,Accessories,3,14467,Delhi,UPI,43401
+887,2025-06-05,Headphones,Accessories,4,40758,Mumbai,Cash on Delivery,163032
+888,2025-06-06,Smartwatch,Electronics,2,4134,Bangalore,Debit Card,8268
+889,2025-06-07,Headphones,Electronics,2,17743,Chennai,Cash on Delivery,35486
+890,2025-06-08,Camera,Electronics,3,16434,Mumbai,UPI,49302
+891,2025-06-09,Headphones,Electronics,1,48775,Chennai,UPI,48775
+892,2025-06-10,Smartwatch,Accessories,1,11233,Mumbai,Cash on Delivery,11233
+893,2025-06-11,Headphones,Electronics,2,2141,Bangalore,Cash on Delivery,4282
+894,2025-06-12,Camera,Electronics,1,19019,Bangalore,Cash on Delivery,19019
+895,2025-06-13,Laptop,Accessories,2,21384,Kolkata,Net Banking,42768
+896,2025-06-14,Smartwatch,Accessories,3,43903,Mumbai,UPI,131709
+897,2025-06-15,Laptop,Accessories,2,46734,Kolkata,UPI,93468
+898,2025-06-16,Laptop,Electronics,2,37129,Mumbai,Net Banking,74258
+899,2025-06-17,Laptop,Electronics,3,23967,Kolkata,Cash on Delivery,71901
+900,2025-06-18,Mobile Phone,Electronics,1,41603,Bangalore,Debit Card,41603
+901,2025-06-19,Mobile Phone,Accessories,2,12172,Chennai,Cash on Delivery,24344
+902,2025-06-20,Laptop,Accessories,2,17390,Kolkata,Cash on Delivery,34780
+903,2025-06-21,Smartwatch,Electronics,3,4267,Mumbai,Net Banking,12801
+904,2025-06-22,Camera,Accessories,1,40332,Mumbai,UPI,40332
+905,2025-06-23,Camera,Accessories,2,27167,Bangalore,Cash on Delivery,54334
+906,2025-06-24,Headphones,Accessories,3,22312,Mumbai,UPI,66936
+907,2025-06-25,Smartwatch,Electronics,2,28840,Delhi,Credit Card,57680
+908,2025-06-26,Mobile Phone,Accessories,4,19990,Chennai,UPI,79960
+909,2025-06-27,Laptop,Accessories,3,45179,Kolkata,Debit Card,135537
+910,2025-06-28,Headphones,Electronics,1,6906,Chennai,Debit Card,6906
+911,2025-06-29,Camera,Electronics,1,49796,Bangalore,Cash on Delivery,49796
+912,2025-06-30,Mobile Phone,Accessories,1,41379,Kolkata,UPI,41379
+913,2025-07-01,Mobile Phone,Accessories,1,18297,Kolkata,Cash on Delivery,18297
+914,2025-07-02,Laptop,Electronics,2,3011,Delhi,Net Banking,6022
+915,2025-07-03,Camera,Electronics,2,45014,Bangalore,Debit Card,90028
+916,2025-07-04,Smartwatch,Accessories,1,47558,Mumbai,Cash on Delivery,47558
+917,2025-07-05,Mobile Phone,Accessories,1,12738,Delhi,Net Banking,12738
+918,2025-07-06,Laptop,Accessories,1,29797,Delhi,Cash on Delivery,29797
+919,2025-07-07,Smartwatch,Accessories,2,48498,Chennai,UPI,96996
+920,2025-07-08,Camera,Electronics,1,12120,Chennai,UPI,12120
+921,2025-07-09,Mobile Phone,Accessories,1,9767,Chennai,UPI,9767
+922,2025-07-10,Smartwatch,Accessories,4,23852,Delhi,UPI,95408
+923,2025-07-11,Smartwatch,Electronics,4,14703,Mumbai,Credit Card,58812
+924,2025-07-12,Smartwatch,Accessories,1,1929,Kolkata,Net Banking,1929
+925,2025-07-13,Mobile Phone,Electronics,3,12951,Chennai,Net Banking,38853
+926,2025-07-14,Mobile Phone,Accessories,1,27039,Mumbai,UPI,27039
+927,2025-07-15,Headphones,Accessories,4,49613,Bangalore,Credit Card,198452
+928,2025-07-16,Camera,Electronics,3,30504,Chennai,UPI,91512
+929,2025-07-17,Laptop,Electronics,3,18438,Kolkata,Credit Card,55314
+930,2025-07-18,Smartwatch,Accessories,1,49515,Bangalore,UPI,49515
+931,2025-07-19,Headphones,Accessories,4,6744,Bangalore,Debit Card,26976
+932,2025-07-20,Laptop,Accessories,4,19284,Kolkata,Debit Card,77136
+933,2025-07-21,Headphones,Electronics,3,43417,Chennai,Cash on Delivery,130251
+934,2025-07-22,Mobile Phone,Accessories,1,40748,Delhi,UPI,40748
+935,2025-07-23,Smartwatch,Electronics,2,8069,Kolkata,Net Banking,16138
+936,2025-07-24,Laptop,Electronics,2,43359,Kolkata,Cash on Delivery,86718
+937,2025-07-25,Laptop,Accessories,4,20799,Kolkata,Debit Card,83196
+938,2025-07-26,Laptop,Electronics,2,34210,Bangalore,UPI,68420
+939,2025-07-27,Laptop,Accessories,4,29226,Mumbai,Cash on Delivery,116904
+940,2025-07-28,Laptop,Accessories,4,5652,Delhi,UPI,22608
+941,2025-07-29,Headphones,Accessories,4,25323,Chennai,Debit Card,101292
+942,2025-07-30,Smartwatch,Accessories,2,43138,Chennai,Cash on Delivery,86276
+943,2025-07-31,Mobile Phone,Accessories,4,8597,Mumbai,Debit Card,34388
+944,2025-08-01,Mobile Phone,Electronics,3,48093,Kolkata,Credit Card,144279
+945,2025-08-02,Mobile Phone,Electronics,1,38226,Delhi,Debit Card,38226
+946,2025-08-03,Mobile Phone,Accessories,1,7591,Chennai,UPI,7591
+947,2025-08-04,Headphones,Accessories,4,26833,Chennai,Net Banking,107332
+948,2025-08-05,Camera,Electronics,1,12826,Kolkata,Debit Card,12826
+949,2025-08-06,Smartwatch,Electronics,2,27417,Mumbai,Net Banking,54834
+950,2025-08-07,Laptop,Electronics,2,19693,Delhi,Credit Card,39386
+951,2025-08-08,Camera,Electronics,1,15138,Mumbai,Cash on Delivery,15138
+952,2025-08-09,Mobile Phone,Accessories,2,3169,Mumbai,Cash on Delivery,6338
+953,2025-08-10,Camera,Accessories,1,19556,Delhi,Net Banking,19556
+954,2025-08-11,Smartwatch,Electronics,1,23052,Delhi,Cash on Delivery,23052
+955,2025-08-12,Laptop,Accessories,1,7313,Chennai,Debit Card,7313
+956,2025-08-13,Laptop,Electronics,4,9315,Chennai,Net Banking,37260
+957,2025-08-14,Smartwatch,Accessories,1,9036,Delhi,UPI,9036
+958,2025-08-15,Smartwatch,Electronics,4,32778,Bangalore,Debit Card,131112
+959,2025-08-16,Mobile Phone,Accessories,1,28734,Chennai,Debit Card,28734
+960,2025-08-17,Laptop,Electronics,1,24173,Bangalore,Debit Card,24173
+961,2025-08-18,Camera,Electronics,1,31403,Delhi,UPI,31403
+962,2025-08-19,Headphones,Accessories,2,1785,Chennai,Credit Card,3570
+963,2025-08-20,Headphones,Electronics,4,7139,Mumbai,Cash on Delivery,28556
+964,2025-08-21,Smartwatch,Accessories,4,7344,Delhi,Net Banking,29376
+965,2025-08-22,Mobile Phone,Accessories,1,19800,Kolkata,Credit Card,19800
+966,2025-08-23,Headphones,Electronics,1,26372,Bangalore,Net Banking,26372
+967,2025-08-24,Laptop,Accessories,2,21538,Delhi,Cash on Delivery,43076
+968,2025-08-25,Smartwatch,Accessories,2,15973,Delhi,UPI,31946
+969,2025-08-26,Camera,Accessories,2,6619,Chennai,Debit Card,13238
+970,2025-08-27,Smartwatch,Accessories,4,35704,Chennai,Debit Card,142816
+971,2025-08-28,Camera,Accessories,4,37575,Chennai,UPI,150300
+972,2025-08-29,Smartwatch,Electronics,4,40919,Kolkata,Credit Card,163676
+973,2025-08-30,Smartwatch,Accessories,1,43261,Chennai,Credit Card,43261
+974,2025-08-31,Smartwatch,Accessories,4,46123,Delhi,Net Banking,184492
+975,2025-09-01,Camera,Accessories,3,28716,Chennai,UPI,86148
+976,2025-09-02,Camera,Accessories,3,4236,Mumbai,Credit Card,12708
+977,2025-09-03,Smartwatch,Accessories,2,16848,Chennai,UPI,33696
+978,2025-09-04,Headphones,Electronics,4,3352,Kolkata,Cash on Delivery,13408
+979,2025-09-05,Mobile Phone,Accessories,3,2932,Mumbai,Debit Card,8796
+980,2025-09-06,Mobile Phone,Electronics,2,11913,Delhi,Debit Card,23826
+981,2025-09-07,Mobile Phone,Electronics,4,9556,Delhi,Debit Card,38224
+982,2025-09-08,Camera,Electronics,1,22300,Bangalore,UPI,22300
+983,2025-09-09,Camera,Electronics,3,6498,Mumbai,UPI,19494
+984,2025-09-10,Headphones,Accessories,1,11582,Bangalore,Net Banking,11582
+985,2025-09-11,Mobile Phone,Electronics,4,47633,Mumbai,Debit Card,190532
+986,2025-09-12,Mobile Phone,Electronics,3,10569,Mumbai,Net Banking,31707
+987,2025-09-13,Smartwatch,Accessories,4,5857,Kolkata,Debit Card,23428
+988,2025-09-14,Camera,Accessories,1,1340,Bangalore,Net Banking,1340
+989,2025-09-15,Mobile Phone,Accessories,3,44949,Kolkata,Net Banking,134847
+990,2025-09-16,Headphones,Electronics,1,17766,Mumbai,Cash on Delivery,17766
+991,2025-09-17,Headphones,Accessories,4,27132,Delhi,Net Banking,108528
+992,2025-09-18,Mobile Phone,Accessories,4,9491,Mumbai,UPI,37964
+993,2025-09-19,Camera,Electronics,1,1138,Kolkata,Net Banking,1138
+994,2025-09-20,Headphones,Accessories,3,1358,Bangalore,Debit Card,4074
+995,2025-09-21,Smartwatch,Accessories,1,10714,Bangalore,Net Banking,10714
+996,2025-09-22,Headphones,Accessories,4,20840,Kolkata,Credit Card,83360
+997,2025-09-23,Laptop,Accessories,1,35395,Bangalore,Debit Card,35395
+998,2025-09-24,Laptop,Electronics,4,31654,Chennai,Credit Card,126616
+999,2025-09-25,Camera,Accessories,1,26879,Delhi,Debit Card,26879
+1000,2025-09-26,Mobile Phone,Accessories,3,16996,Delhi,UPI,50988
